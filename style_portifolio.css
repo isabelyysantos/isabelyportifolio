@@ -1,0 +1,44 @@
+.grafico{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 5rem 5rem 5rem 5rem rgba(0,0,0,0.21)
+}
+
+.link{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 1rem;
+    font-size: 1.5rem;
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    font-weight: bold; 
+}
+.link:hover{
+   color: rgb(113, 77, 9);
+   text-shadow: 7px 1px 15px rgb(255, 189, 9);
+}
+.links2{
+  background-color: rgb(255, 255, 255);
+  margin: 1rem 1rem 2rem 21rem;
+  padding: 1rem;
+  border-radius: 20px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.links2 a{
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1rem;
+  color: #ae8706;
+  font-family: sans-serif;
+}
+
+#separador{
+border-left: 3rem 2px solid black;
+}
+
+
+
+
